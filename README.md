@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Lingjie Wang👨‍💻</h1>
-<h3 align="center">An undergraduate student of Shandong University, majoring in Computer Science and Technology</h3>
+<h3 align="center">An undergraduate student of Shandong University, majoring in Computer Science and Technology👻</h3>
 
 
 
-<p align="center">  How to reach me 📫 2820402607@qq.com OR 2820402607l@gmail.com 📫
+<p align="center">  How to reach me 📧 2820402607@qq.com OR 📧2820402607l@gmail.com 
 
 <p align="center"><img width="300" height="200" src="https://github.com/Lyz103/Lyz103/blob/main/214644145-264f4759-7633-441e-9d67-d8dda9d50d26.gif"/> </div>
 
