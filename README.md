@@ -1,4 +1,4 @@
-<img align="right" src="https://komarev.com/ghpvc/?username=Lingjie-wang" alt="nancheng58" />
+<img align="right" src="https://komarev.com/ghpvc/?username=Lingjie-wang" alt="Lingjie-wang" />
 
 <h1 align="center">Hi 👋, I'm Lingjie Wang🥰</h1>
 <h3 align="center">An undergraduate student of Shandong University, majoring in Computer Science and Technology👻</h3>
